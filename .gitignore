@@ -1,0 +1,4 @@
+#ignore this file
+.project
+*obj
+*.exe
